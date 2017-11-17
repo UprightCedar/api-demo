@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "sequelize-auto -o ./entity_model -d wechatStore_online -h 106.14.77.183 -u root -p 3306  -x wangrui1994 -e mysql -a ./src/model/config.json",
+    "build": "sequelize-auto -o ./entity_model -d 数据库 -h ** -u 用户名 -p 3306  -x 密码 -e mysql -a ./src/model/config.json",
     "start": "node ./endpoint.js",
     "dev": "supervisor endpoint.js"
   },
