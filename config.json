@@ -1,0 +1,5 @@
+{
+  "port": 8888,
+  "maxAge": 1800000,
+  "redis_maxAge": 1800
+}
