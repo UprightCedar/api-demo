@@ -1,7 +1,7 @@
 {
-  "name": "service-mgm",
+  "name": "api-demo",
   "version": "1.0.0",
-  "description": "service-mgm",
+  "description": "api-demo",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://106.14.77.183/repo/Part/service-mgm"
+    "url": "https://github.com/burning0xb/api-demo.git"
   },
   "keywords": [
     "koa"
